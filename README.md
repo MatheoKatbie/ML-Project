@@ -52,22 +52,6 @@
          - Principes de fonctionnement
          - Utilisation pratique avec scikit-learn
 
-## IV. Utilisations concrètes avec Scikit-Learn
-   - Classification d'images avec SVM
-      - Prétraitement des données
-      - Entraînement du modèle
-      - Évaluation des performances
-
-   - Regroupement de données avec K-means
-      - Préparation des données
-      - Application de l'algorithme
-      - Analyse des résultats
-
-   - Prédiction de séries temporelles avec Régression linéaire
-      - Formatage des données temporelles
-      - Entraînement du modèle
-      - Validation des prédictions
-
 ## V. Conclusion
    - Récapitulation des types d'apprentissage et des algorithmes
    -  Mise en avant des applications concrètes avec scikit-learn
